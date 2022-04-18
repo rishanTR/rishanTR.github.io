@@ -16,8 +16,8 @@ author: rishanTR
 navbar-links:
   Home: "https://rishanTR.github.io"
   Content:
-    - Content 1: "https://rishanTR.github.io/content1"
-    - Content 2: "https://rishanTR.github.io/content2"
+    - Content 1: "https://rishanTR.github.io/content_1"
+    - Content 2: "https://rishanTR.github.io/content_2"
   About me ?: "https://rishanTR.github.io/aboutme"
 
 # --- Logo --- #
